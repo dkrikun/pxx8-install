@@ -1,2 +1,3 @@
-download/
+download/*.tbz2
+download/*.deb
 leo*.zip

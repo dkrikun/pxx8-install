@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script to flash Jetson Xavier AGX using Nvidia SDK manager from
-# files downloaded using sdkdl.sh, in offline mode
+# files downloaded using sdk_dl.sh, in offline mode
 
 # WTF: the installation is not fully offline, still requires internet
 # connection
