@@ -3,11 +3,9 @@
 # Script to flash Jetson Xavier AGX using Nvidia SDK manager from
 # files downloaded using sdk_dl.sh, in offline mode
 
-# WTF: the installation is not fully offline, still requires internet
-# connection
-#
-# Also, the installation is not automatic, one needs to interact with
-# the UI and put the target device into the reset mode
+# The installation is not automatic, one needs to interact with
+# the UI and put the target device into the reset mode.
+# Also, before the installation proceeds to SDK you will need to log onto the target device and set up ssh connection.
 
 set -eou pipefail
 

@@ -28,7 +28,7 @@ sdkmanager \
     --flash skip
 
 # dl bsp+rootfs
-cd $download_path
-base_url=https://developer.nvidia.com/embedded/dlc/r32-3-1_Release_v1.0/t186ref_release_aarch64
-wget $base_url/Tegra186_Linux_R32.3.1_aarch64.tbz2
-wget $base_url/Tegra_Linux_Sample-Root-Filesystem_R32.3.1_aarch64.tbz2
+#cd $download_path
+#base_url=https://developer.nvidia.com/embedded/dlc/r32-3-1_Release_v1.0/t186ref_release_aarch64
+#wget $base_url/Tegra186_Linux_R32.3.1_aarch64.tbz2
+#wget $base_url/Tegra_Linux_Sample-Root-Filesystem_R32.3.1_aarch64.tbz2
